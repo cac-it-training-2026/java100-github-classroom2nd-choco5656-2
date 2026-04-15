@@ -41,5 +41,5 @@ public class Patisserie {
 		System.out.println("シトロン" + "\\280" + "・・・残り" + chocolatStock + "個");
 		System.out.println("シトロン" + "\\320" + "・・・残り" + pistacheStock + "個");
 	}
-
+	//
 }
