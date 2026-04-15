@@ -38,7 +38,7 @@
  * ピスターシュ  \320 ・・・ 残り27個
  *
  */
-//
+
 package lesson01.challenge07;
 
 import java.io.BufferedReader;

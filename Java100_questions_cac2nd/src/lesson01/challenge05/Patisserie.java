@@ -26,7 +26,7 @@
  * 承りました。
  *
  */
-//
+
 package lesson01.challenge05;
 
 import java.io.BufferedReader;

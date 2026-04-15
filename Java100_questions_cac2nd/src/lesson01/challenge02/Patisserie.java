@@ -29,7 +29,7 @@ public class Patisserie {
 		System.out.println("シトロン" + "\\250");
 		System.out.println("ショコラ" + "\\280");
 		System.out.println("ピスターシュ" + "\\320");
-
+		//
 	}
 
 }

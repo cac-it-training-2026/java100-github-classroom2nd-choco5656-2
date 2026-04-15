@@ -25,7 +25,7 @@
  * をお買いあげですね。
  * 承りました。
  */
-//
+
 package lesson01.challenge04;
 
 import java.io.BufferedReader;
